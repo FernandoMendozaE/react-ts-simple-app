@@ -1,0 +1,5 @@
+// Creando proyecto con typescript
+npx create-react-app react-ts-simple-app --temple typescript
+
+// Para el CSS
+npm i bootswatch
